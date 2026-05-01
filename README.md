@@ -55,10 +55,10 @@ Best for simulating a real business environment from scratch.
 
 | # | Task | Folder |
 |---|------|--------|
-| 1 | Create a new user and assign a license | [``]() |
-| 2 | Reset a user's password | [``]() |
+| 1 | Create a new user and assign a license | [`create-user-assign-license/`](./create-user-assign-license/) |
+| 2 | Reset a user's password | [`reset-users-password/`](./reset-users-password/) |
 | 3 | Add a user to a group | [`add-user-to-group/`](./add-user-to-group/) |
-| 4 | Disable and delete a user (offboarding) | [``]() |
-| 5 | Access Outlook, OneDrive, and Teams settings from the admin panel | [``]() |
-| 6 | Change sharing permissions on a OneDrive folder | [``]() |
+| 4 | Disable and delete a user (offboarding) | [`delete-user/`](./delete-user/) |
+| 5 | Access Outlook, OneDrive, and Teams settings from the admin panel | [`outlook-onedrive-teams-settings/`](./outlook-onedrive-teams-settings/) |
+| 6 | Change sharing permissions on a OneDrive folder | [`onedrive-sharing-permissions/`](./onedrive-sharing-permissions/) |
 
