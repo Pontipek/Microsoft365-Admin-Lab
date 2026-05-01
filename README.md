@@ -24,15 +24,22 @@ Best for developers and IT learners who want a pre-configured environment with 2
 - Sign up at: [developer.microsoft.com/microsoft-365/dev-program](https://developer.microsoft.com/microsoft-365/dev-program)
 - Gives you a free E5 sandbox tenant with 25 users and full admin access
 - Renews automatically as long as you stay active
-  
+
+![M365 Developer Sandbox](screenshots/microsoft-dev.png)
+
 ### Option 2 — Microsoft 365 Business Standard Free Trial ✅ *(used in this lab)*
 Best for simulating a real business environment from scratch.
 - Sign up at: [microsoft.com/microsoft-365/business/compare-all-plans](https://www.microsoft.com/microsoft-365/business/compare-all-plans)
 - 30-day free trial, no commitment required
 - Includes full access to the M365 Admin Center, Outlook, OneDrive, and Teams
 - You set up your own tenant and users, which mirrors real-world IT onboarding
+
+![Microsoft 365 Business Standard](screenshots/microsoft-business.png)
+
+![Microsoft 365 Business Standard Free Trial](screenshots/microsoft-standard-trial.png)
+
 ---
- 
+
 ## 📋 Skills Demonstrated
  
 - User lifecycle management (create, modify, disable, delete)
@@ -46,4 +53,12 @@ Best for simulating a real business environment from scratch.
 
 ## 📁 Tasks
 
+| # | Task | Folder |
+|---|------|--------|
+| 1 | Create a new user and assign a license | [``]() |
+| 2 | Reset a user's password | [``]() |
+| 3 | Add a user to a group | [`add-user-to-group/`](./add-user-to-group/) |
+| 4 | Disable and delete a user (offboarding) | [``]() |
+| 5 | Access Outlook, OneDrive, and Teams settings from the admin panel | [``]() |
+| 6 | Change sharing permissions on a OneDrive folder | [``]() |
 
