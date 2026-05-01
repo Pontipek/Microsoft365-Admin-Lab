@@ -11,7 +11,7 @@ Add an existing user to a Microsoft 365 group to grant them access to shared res
 5. Searched for user and added them to the group
 6. Confirmed they appeared in the group's member list
 
-### Screenshot
+### Screenshots
 
 
 ### What I learned

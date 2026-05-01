@@ -12,7 +12,7 @@ Modify the sharing permissions on a OneDrive folder to control who can access it
 6. Located a folder, right-clicked, and selected Manage access
 7. Removed an existing external user and updated permissions to View only for internal users
 
-### Screenshot
+### Screenshots
 
 
 ### What I learned

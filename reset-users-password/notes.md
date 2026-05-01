@@ -11,7 +11,7 @@ Reset a user's password from the M365 Admin Center to simulate a common help des
 5. Chose Auto-generate password and checked Require this user to change their password at next sign-in
 6. Clicked Reset password and saved the temporary password to share with the user
 
-### Screenshot
+### Screenshots
 
 
 ### What I learned

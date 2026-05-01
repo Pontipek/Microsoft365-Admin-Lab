@@ -85,7 +85,10 @@ All screenshots are stored in the [`screenshots/`](./screenshots/) folder and re
  
 ---
 
-## Resources
+##  📚 Resources
+- Learning Office 365 for Tech Support Jobs — cobuman [Watch here](https://www.youtube.com/watch?v=gakBp9m9q2Q&list=PL4jgQJG6eMDPBHQ4UHueb1xoABkGO6WbQ) 
+- Microsoft 365 Admin Center Overview [docs.microsoft.com](https://learn.microsoft.com/en-us/microsoft-365/admin/admin-overview/admin-center-overview)
+
 
 <br/>
 > *This lab was built as part of an ongoing effort to develop hands-on IT admin and cybersecurity skills beyond the classroom.*

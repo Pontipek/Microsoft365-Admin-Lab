@@ -11,7 +11,7 @@ Explore the admin-side settings for Outlook, OneDrive, and Teams to understand w
 5. Navigated to Exchange admin center to review Outlook mailbox settings, including mailbox size limits and shared mailbox options
 6. Documented default settings and noted what can be customized per user vs. organization-wide
 
-### Screenshot
+### Screenshots
 
 
 ### What I learned

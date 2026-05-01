@@ -12,7 +12,7 @@ Simulate the offboarding process by disabling and then deleting a user account.
 6. Navigated to Users > Deleted users after deletion
 7. Selected the user and clicked Delete user permanently
 
-### Screenshot
+### Screenshots
 
 
 ### What I learned

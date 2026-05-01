@@ -10,9 +10,9 @@ Add a new user to the M365 tenant and assign them a Microsoft 365 license.
 4. Assigned a Microsoft 365 E5 license
 5. Confirmed the user appeared in Active Users
 
-### Screenshot
+### Screenshots
 ![Active users](../screenshots/create-user-1.png)
-<br/>
+<br/><br/>
 
 ![Set up the basics](../screenshots/create-user-2.png)
 <br/>
