@@ -1,4 +1,4 @@
-## Task: 
+## Task: Disable and delete a user (offboarding)
 
 **Goal:** 
 

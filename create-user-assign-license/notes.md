@@ -10,7 +10,26 @@
 5. Confirmed the user appeared in Active Users
 
 **Screenshot:**
+![Active users](../screenshots/create-user-1.png)
+<br/>
 
+![Set up the basics](../screenshots/create-user-2.png)
+<br/>
+
+![Assign Product Licenses](../screenshots/create-user-3.png)
+<br/>
+
+![Optional settings](../screenshots/create-user-4.png)
+<br/>
+
+![Review and finish](../screenshots/create-user-5.png)
+<br/>
+
+![Confirmation message](../screenshots/create-user-6.png)
+<br/>
+
+![Overview of new user's profil](../screenshots/create-user-6.png)
+<br/>
 
 **What I learned:**
 Assigning licenses controls what apps and services a user can access. 

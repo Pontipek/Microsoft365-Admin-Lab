@@ -1,4 +1,4 @@
-## Task: 
+## Task: Reset a user's password
 
 **Goal:** 
 
