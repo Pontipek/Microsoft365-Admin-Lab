@@ -1,6 +1,8 @@
 # Microsoft 365 Admin Skills Lab — User & Identity Management
+
  
 A hands-on lab documenting real Microsoft 365 admin tasks performed using a **Microsoft 365 Business Standard free trial**. This project demonstrates practical IT admin skills relevant to Help Desk, IT Support, and Cybersecurity Analyst roles.
+
  
 ---
  
