@@ -13,7 +13,8 @@ Simulate the offboarding process by disabling and then deleting a user account.
 7. Selected the user and clicked Delete user permanently
 
 ### Screenshots
-
+![](../screenshots/)
+<br/>
 
 ### What I learned
 Proper offboarding is critical for security. Blocking sign-in first gives IT time to back up data or reassign resources before permanent deletion. Deleted accounts are held for 30 days in M365 before being permanently removed, which allows for recovery if needed.

@@ -91,4 +91,5 @@ All screenshots are stored in the [`screenshots/`](./screenshots/) folder and re
 
 
 <br/>
+
 > *This lab was built as part of an ongoing effort to develop hands-on IT admin and cybersecurity skills beyond the classroom.*
