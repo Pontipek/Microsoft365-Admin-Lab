@@ -7,10 +7,10 @@ Create a new Microsoft 365 group and add a user to it to grant them access to sh
 1. Logged into admin.microsoft.com
 2. Navigated to Teams & Groups > Active teams & groups
 3. Clicked **Add a group** and selected the group type (e.g., Microsoft 365)
-4. Filled in the group name, description, and settings, then created the group
-5. Opened the newly created group and clicked the Members tab > Add members
-6. Searched for the user and added them to the group
-7. Confirmed they appeared in the group's member list
+4. Filled in the group name and description
+5. Configured the group settings and added members during the setup process
+6. Finished and created the group
+7. Confirmed the user appeared in the group's member list
 
 ### Screenshots
 ![](../screenshots/add-group-1.png)
@@ -35,6 +35,12 @@ Create a new Microsoft 365 group and add a user to it to grant them access to sh
 <br/><br/>
 
 ![](../screenshots/add-group-8.png)
+<br/><br/>
+
+![](../screenshots/add-group-9.png)
+<br/><br/>
+
+![](../screenshots/add-group-10.png)
 <br/><br/>
 
 ### What I learned
