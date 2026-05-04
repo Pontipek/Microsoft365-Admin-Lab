@@ -12,7 +12,16 @@ Reset a user's password from the M365 Admin Center to simulate a common help des
 6. Clicked Reset password and saved the temporary password to share with the user
 
 ### Screenshots
-![](../screenshots/)
+![](../screenshots/edit-password1.png)
+<br/>
+
+![](../screenshots/edit-password2.png)
+<br/>
+
+![](../screenshots/edit-password3.png)
+<br/>
+
+![](../screenshots/edit-password4.png)
 <br/>
 
 ### What I learned
