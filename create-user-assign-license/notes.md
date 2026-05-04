@@ -15,22 +15,22 @@ Add a new user to the M365 tenant and assign them a Microsoft 365 license.
 <br/><br/>
 
 ![Set up the basics](../screenshots/create-user-2.png)
-<br/>
+<br/><br/>
 
 ![Assign Product Licenses](../screenshots/create-user-3.png)
-<br/>
+<br/><br/>
 
 ![Optional settings](../screenshots/create-user-4.png)
-<br/>
+<br/><br/>
 
 ![Review and finish](../screenshots/create-user-5.png)
-<br/>
+<br/><br/>
 
 ![Confirmation message](../screenshots/create-user-6.png)
-<br/>
+<br/><br/>
 
 ![Overview of new user's profil](../screenshots/create-user-6.png)
-<br/>
+<br/><br/>
 
 ### What I learned
 Assigning licenses controls what apps and services a user can access. 
