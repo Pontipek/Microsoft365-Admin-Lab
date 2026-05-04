@@ -35,7 +35,7 @@ Best for simulating a real business environment from scratch.
 - You set up your own tenant and users, which mirrors real-world IT onboarding
 
 ![Microsoft 365 Business Standard](screenshots/microsoft-business.png)
-<br/>
+<br/><br/>
 
 ![Microsoft 365 Business Standard Free Trial](screenshots/business-standard-trial.png)
 

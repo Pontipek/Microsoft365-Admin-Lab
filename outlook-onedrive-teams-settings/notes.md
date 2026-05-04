@@ -13,7 +13,7 @@ Explore the admin-side settings for Outlook, OneDrive, and Teams to understand w
 
 ### Screenshots
 ![](../screenshots/)
-<br/>
+<br/><br/>
 
 ### What I learned
 Many M365 settings are managed at the organization level, not just per user. Understanding where these controls live in the admin center is essential for IT support. For example, knowing that OneDrive storage is managed through the SharePoint admin center, not the main M365 admin panel.

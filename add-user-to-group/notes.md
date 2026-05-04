@@ -1,18 +1,41 @@
-## Task: Add a user to a group
+## Task: Create a group and add a user to it
 
 ### Goal
-Add an existing user to a Microsoft 365 group to grant them access to shared resources.
+Create a new Microsoft 365 group and add a user to it to grant them access to shared resources.
 
 ### Steps taken
 1. Logged into admin.microsoft.com
 2. Navigated to Teams & Groups > Active teams & groups
-3. Selected an existing group (e.g., IT Support Team)
-4. Clicked the Members tab > Add members
-5. Searched for user and added them to the group
-6. Confirmed they appeared in the group's member list
+3. Clicked **Add a group** and selected the group type (e.g., Microsoft 365)
+4. Filled in the group name, description, and settings, then created the group
+5. Opened the newly created group and clicked the Members tab > Add members
+6. Searched for the user and added them to the group
+7. Confirmed they appeared in the group's member list
 
 ### Screenshots
+![](../screenshots/add-group-1.png)
+<br/><br/>
 
+![](../screenshots/add-group-2.png)
+<br/><br/>
+
+![](../screenshots/add-group-3.png)
+<br/><br/>
+
+![](../screenshots/add-group-4.png)
+<br/><br/>
+
+![](../screenshots/add-group-5.png)
+<br/><br/>
+
+![](../screenshots/add-group-6.png)
+<br/><br/>
+
+![](../screenshots/add-group-7.png)
+<br/><br/>
+
+![](../screenshots/add-group-8.png)
+<br/><br/>
 
 ### What I learned
-Group membership controls access to shared mailboxes, SharePoint sites, and Teams channels. Adding users to the right groups is a key part of role-based access control (RBAC). Users should only have access to what their role requires.
+Creating groups and managing membership controls access to shared mailboxes, SharePoint sites, and Teams channels. Adding users to the right groups is a key part of role-based access control (RBAC). Users should only have access to what their role requires.
