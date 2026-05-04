@@ -12,7 +12,31 @@ Explore the admin-side settings for Outlook, OneDrive, and Teams to understand w
 6. Documented default settings and noted what can be customized per user vs. organization-wide
 
 ### Screenshots
-![](../screenshots/)
+![](../screenshots/settings-1.png)
+<br/><br/>
+
+![](../screenshots/settings-2.png)
+<br/><br/>
+
+![](../screenshots/settings-3.png)
+<br/><br/>
+
+![](../screenshots/settings-4.png)
+<br/><br/>
+
+![](../screenshots/settings-5.png)
+<br/><br/>
+
+![](../screenshots/settings-6.png)
+<br/><br/>
+
+![](../screenshots/settings-7.png)
+<br/><br/>
+
+![](../screenshots/settings-8.png)
+<br/><br/>
+
+![](../screenshots/settings-9.png)
 <br/><br/>
 
 ### What I learned

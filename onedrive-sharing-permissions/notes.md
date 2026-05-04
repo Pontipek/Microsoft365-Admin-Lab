@@ -13,8 +13,19 @@ Modify the sharing permissions on a OneDrive folder to control who can access it
 7. Removed an existing external user and updated permissions to View only for internal users
 
 ### Screenshots
-![](../screenshots/)
+![](../screenshots/onedrive-permissions-1.png)
 <br/><br/>
 
+![](../screenshots/onedrive-permissions-2.png)
+<br/><br/>
+
+![](../screenshots/onedrive-permissions-3.png)
+
+<br/><br/>
+![](../screenshots/onedrive-permissions-4.png)
+<br/><br/>
+
+![](../screenshots/onedrive-permissions-5.png)
+<br/><br/>
 ### What I learned
 OneDrive sharing permissions operate at two levels: organization-wide policies set in the SharePoint admin center, and folder-level permissions set per item. Restricting sharing to internal users only is a common data loss prevention (DLP) measure to prevent sensitive files from being shared externally by mistake.
