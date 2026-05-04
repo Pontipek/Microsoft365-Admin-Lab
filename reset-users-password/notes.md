@@ -13,16 +13,16 @@ Reset a user's password from the M365 Admin Center to simulate a common help des
 
 ### Screenshots
 ![](../screenshots/edit-password1.png)
-<br/>
+<br/><br/>
 
 ![](../screenshots/edit-password2.png)
-<br/>
+<br/><br/>
 
 ![](../screenshots/edit-password3.png)
-<br/>
+<br/><br/>
 
 ![](../screenshots/edit-password4.png)
-<br/>
+<br/><br/>
 
 ### What I learned
 Password resets are one of the most common help desk tickets. Forcing a password change on next sign-in is a security best practice. It ensures only the user knows their final password and reduces the risk of unauthorized access.
